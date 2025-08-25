@@ -29,7 +29,7 @@ This repository contains various experiments and learning projects related to **
 ### 4. Use Cases
 - **Folder:** `turf_booking_system`  
 - **Description:** Example project implementing a turf booking system using MCP agents and prompts.  
-- **Details:** Refer to the [README](turf_booking_system/README.md) for full instructions.
+- **Details:** Refer to the [README](MCP_LEARNING/4_Use_Case/Turf_booking_V4_Final/README.md) for full instructions.
 
 ---
 
