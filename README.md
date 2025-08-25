@@ -38,6 +38,7 @@ All required Python packages for the projects are listed in `requirements.txt`. 
 
 ```bash
 pip install -r requirements.txt
+```
 ---
 
 ## Notes
