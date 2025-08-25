@@ -74,15 +74,16 @@ Below are screenshots of the Streamlit UI:
 
 ### Home Page
 
-![Home Page](https://github.com/amalvinob007/mcplearning/edit/main/MCP_LEARNING/4_Use_Case/Turf_booking_V4_Final/Output_img/Front_page.png)
+![Home Page](images/Front_page.png)
 
 ### Chat_interface
 
-![Chat](MCP_LEARNING/4_Use_Case/Turf_booking_V3_Final/Output_img/chat_interface.png)
+![Chat](images/chat_interface.png)
 
 ### Prompt interface
 
-![Chat Interface](MCP_LEARNING/4_Use_Case/Turf_booking_V3_Final/Output_img/Prompt_input.png)
+![Chat Interface](images/Prompt_input.png)
+
 
 
 
