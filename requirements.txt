@@ -1,0 +1,17 @@
+mcp
+langchain 
+langgraph
+groq 
+requests
+langchain_community
+langchain_core
+python-dotenv
+langchain_pinecone
+pandas
+langchain-groq
+langchain_mcp_adapters
+langchain_chroma
+fastmcp
+httpx
+streamlit
+langchain_google_genai
