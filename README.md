@@ -1,6 +1,6 @@
 # MCP Learning Repository
 
-This repository contains various experiments and learning projects related to **MCP (Multi-Component Platform / Agents / Async-Sync Wrappers)**. Each project has its own folder with a detailed README explaining its contents.
+This repository contains various experiments and learning projects related to **MCP (Model Context Protocol / Agents / Async-Sync Wrappers)**. Each project has its own folder with a detailed README explaining its contents.
 
 ---
 
@@ -9,7 +9,6 @@ This repository contains various experiments and learning projects related to **
 ### 1. Normal Client-Server
 - **Folder:** `calculator`  
 - **Description:** Basic client-server setup demonstrating synchronous and asynchronous communication.  
-- **Details:** See the [README](calculator/README.md) in the folder for setup and usage.
 
 ### 2. Multi-Server Setup
 - **Folders:** 
