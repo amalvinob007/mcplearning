@@ -32,6 +32,14 @@ This repository contains various experiments and learning projects related to **
 
 ---
 
+## Requirements
+
+All required Python packages for the projects are listed in `requirements.txt`. To install them, run:
+
+```bash
+pip install -r requirements.txt
+---
+
 ## Notes
 - Each folder is self-contained and has its own README explaining setup, dependencies, and usage.  
 - This repository serves as a learning playground for understanding how MCP agents, prompts, and async/sync patterns work together.
