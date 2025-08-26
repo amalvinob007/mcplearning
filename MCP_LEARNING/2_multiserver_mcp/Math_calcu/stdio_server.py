@@ -30,7 +30,7 @@ async def main():
         "then use the result with the 'multiply' tool to multiply by c. Ensure all tool inputs are integers."
     )
     groq_llm = ChatGroq(
-        groq_api_key="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",  # Replace with actual API key
+        groq_api_key="",  # Replace with actual API key
         model="llama-3.3-70b-versatile",
         # Pass system prompt as part of the messages in the invoke call
     )
@@ -54,4 +54,5 @@ async def main():
     print("Response:", math_response)
  
 if __name__ == "__main__":
+
     asyncio.run(main())
